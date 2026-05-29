@@ -1,22 +1,22 @@
 {
     "domain": "video.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "빔프로젝터",
+        "스마트 모니터",
+        "영상 액세서리"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang video items."
+        "빔프로젝터": {
+            "topic": "Mini projectors, home cinema projectors, screens.",
+            "role": "Home theater expert."
         },
-        "수유/이유식": {
-            "topic": "video bottle sterilizers, video food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "스마트 모니터": {
+            "topic": "Smart monitors, 4K monitors, curved displays.",
+            "role": "Display technology reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "영상 액세서리": {
+            "topic": "HDMI cables, monitor arms, streaming devices.",
+            "role": "Video gear guide."
         }
     }
 }
